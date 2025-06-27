@@ -10,7 +10,8 @@
 
 ## Common core
 ### Circle 5
-- [NetPractice](https://github.com/blanchetamaury/NetPractice)
+[<img src="assets/netpractice.png" alt="netpractice" width="100"/>](https://github.com/blanchetamaury/NetPractice)
+
 ### Circle 4
 - [minishell](https://github.com/blanchetamaury/minishell)
 - [philosophers](https://github.com/blanchetamaury/philo)
