@@ -1,6 +1,7 @@
-![hello](assets/hello.gif)
+<p align="center">
+  <img src="assets/hello.gif" alt="hello" width="300"/>
+</p>
 
----
 ![legends](assets/legends.png)
 # Working on
 
@@ -13,32 +14,31 @@
 [<img src="assets/netpractice.png" alt="netpractice" width="100"/>](https://github.com/blanchetamaury/NetPractice)
 
 ### Circle 4
-- [minishell](https://github.com/blanchetamaury/minishell)
-- [philosophers](https://github.com/blanchetamaury/philo)
+[<img src="assets/minishell.png" alt="minishell" width="100"/>](https://github.com/blanchetamaury/minishell)
+[<img src="assets/philosophers.png" alt="philosophers" width="100"/>](https://github.com/blanchetamaury/philo)
 ### Circle 3
-- [pipex](https://github.com/blanchetamaury/pipex)
-- [so_long](https://github.com/blanchetamaury/so_long)
-- [push_swap](https://github.com/blanchetamaury/push_swap)
+[<img src="assets/pipex.png" alt="pipex" width="100"/>](https://github.com/blanchetamaury/pipex)
+[<img src="assets/so_long.png" alt="so_long" width="100"/>](https://github.com/blanchetamaury/so_long)
+[<img src="assets/push_swap.png" alt="push_swap" width="100"/>](https://github.com/blanchetamaury/push_swap)
 ### Circle 2
-- [Born2beroot](https://github.com/blanchetamaury/Born2beroot)
-- [Get_next_line](https://github.com/blanchetamaury/get_next_line)
-- [Ft_printf](https://github.com/blanchetamaury/printf)
+[<img src="assets/born2beroot.png" alt="born2beroot" width="100"/>](https://github.com/blanchetamaury/Born2beroot)
+[<img src="assets/get_next_line.png" alt="get_next_line" width="100"/>](https://github.com/blanchetamaury/get_next_line)
+[<img src="assets/ft_prinft.png" alt="printf" width="100"/>](https://github.com/blanchetamaury/printf)
 ### Circle 1
-- [Libft](https://github.com/blanchetamaury/libft)
-
+[<img src="assets/libft.png" alt="libft" width="100"/>](https://github.com/blanchetamaury/libft)
 ## Piscine
-### C Piscine
-- [C00](https://github.com/blanchetamaury/C00)
-- [C01](https://github.com/blanchetamaury/C01)
-- [C02](https://github.com/blanchetamaury/C02)
-- [C03](https://github.com/blanchetamaury/C03)
-- [C04](https://github.com/blanchetamaury/C04)
-- [C05](https://github.com/blanchetamaury/C05)
-- [C06](https://github.com/blanchetamaury/C06)
-- [C07](https://github.com/blanchetamaury/C07)
 ### SHELL Piscine
-- [Shell00](https://github.com/blanchetamaury/Shell00)
-- [Shell01](https://github.com/blanchetamaury/Shell01)
----
+[<img src="assets/shell00.png" alt="shell00" width="100"/>](https://github.com/blanchetamaury/Shell00)
+[<img src="assets/shell01.png" alt="shell01" width="100"/>](https://github.com/blanchetamaury/Shell01)
+### C Piscine
+[<img src="assets/c00.png" alt="c00" width="100"/>](https://github.com/blanchetamaury/C00)
+[<img src="assets/c01.png" alt="c01" width="100"/>](https://github.com/blanchetamaury/C01)
+[<img src="assets/c02.png" alt="c02" width="100"/>](https://github.com/blanchetamaury/C02)
+[<img src="assets/c03.png" alt="c03" width="100"/>](https://github.com/blanchetamaury/C03)
+[<img src="assets/c04.png" alt="c04" width="100"/>](https://github.com/blanchetamaury/C04)
+[<img src="assets/c05.png" alt="c05" width="100"/>](https://github.com/blanchetamaury/C05)
+[<img src="assets/c06.png" alt="c06" width="100"/>](https://github.com/blanchetamaury/C06)
+[<img src="assets/c07.png" alt="c07" width="100"/>](https://github.com/blanchetamaury/C07)
 
+---
 # Perso
