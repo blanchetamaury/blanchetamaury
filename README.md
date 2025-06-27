@@ -4,6 +4,7 @@
 
 ![legends](assets/legends.png)
 # 🛠️ Working on 🛠️
+[<img src="assets/cub3d.png" alt="cub3d" width="100"/>](https://github.com/blanchetamaury/Cub3d)
 
 ---
 
@@ -42,6 +43,10 @@
 
 ---
 # 👤 Perso 👤
+[<img src="assets/cursor.png" alt="cursor" width="100"/>](https://github.com/blanchetamaury/icone)
+[<img src="assets/internet_clicker.png" alt="internet_clicker" width="100"/>](https://github.com/blanchetamaury/Internet_Clicker)
+[<img src="assets/adventure_time.png" alt="adventure_time" width="100"/>](https://github.com/blanchetamaury/adventure_time)
+[<img src="assets/maze.png" alt="maze" width="100"/>](https://github.com/blanchetamaury/maze)
 
 <p align="center">
   <img src="assets/ocean.gif" alt="ocean" width="1000"/>
