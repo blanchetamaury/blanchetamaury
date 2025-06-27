@@ -5,6 +5,8 @@
 # 42 Projects
 
 ## Common core
+### Circle 5
+- [NetPractice](https://github.com/blanchetamaury/NetPractice)
 ### Circle 4
 - [minishell](https://github.com/blanchetamaury/minishell)
 - [philosophers](https://github.com/blanchetamaury/philo)
@@ -26,10 +28,12 @@
 - [C02](https://github.com/blanchetamaury/C02)
 - [C03](https://github.com/blanchetamaury/C03)
 - [C04](https://github.com/blanchetamaury/C04)
-- [C05](https://github.com/blanchetamaury/C04)
-- [C06](https://github.com/blanchetamaury/C04)
-- [C07](https://github.com/blanchetamaury/C04)
-- [C08](https://github.com/blanchetamaury/C04)
+- [C05](https://github.com/blanchetamaury/C05)
+- [C06](https://github.com/blanchetamaury/C06)
+- [C07](https://github.com/blanchetamaury/C07)
+### SHELL Piscine
+- [Shell00](https://github.com/blanchetamaury/Shell00)
+- [Shell01](https://github.com/blanchetamaury/Shell01)
 ---
 
 # Perso
