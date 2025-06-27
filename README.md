@@ -3,13 +3,13 @@
 </p>
 
 ![legends](assets/legends.png)
-# Working on
+# 🛠️ Working on 🛠️
 
 ---
 
-# 42 Projects
+# 4️⃣2️⃣ Projects
 
-## Common core
+## 🧱 Common core 🧱
 ### Circle 5
 [<img src="assets/netpractice.png" alt="netpractice" width="100"/>](https://github.com/blanchetamaury/NetPractice)
 
@@ -26,7 +26,7 @@
 [<img src="assets/ft_prinft.png" alt="printf" width="100"/>](https://github.com/blanchetamaury/printf)
 ### Circle 1
 [<img src="assets/libft.png" alt="libft" width="100"/>](https://github.com/blanchetamaury/libft)
-## Piscine
+## 🌊 Piscine 🌊
 ### SHELL Piscine
 [<img src="assets/shell00.png" alt="shell00" width="100"/>](https://github.com/blanchetamaury/Shell00)
 [<img src="assets/shell01.png" alt="shell01" width="100"/>](https://github.com/blanchetamaury/Shell01)
@@ -41,4 +41,4 @@
 [<img src="assets/c07.png" alt="c07" width="100"/>](https://github.com/blanchetamaury/C07)
 
 ---
-# Perso
+# 👤 Perso 👤
