@@ -5,10 +5,18 @@
 ## 42 Projects
 
 ### Common core
-
-[Libftn](https://github.com/blanchetamaury/libft)
+- [Libft](https://github.com/blanchetamaury/libft)
+- [ft_printf](https://github.com/blanchetamaury/printf/tree/main)
+- [Born2beroot](https://github.com/blanchetamaury/libft)
+- [get_next_line](https://github.com/blanchetamaury/libft)
+- [pipex](https://github.com/blanchetamaury/libft)
+- [so_long](https://github.com/blanchetamaury/libft)
+- [push_swap](https://github.com/blanchetamaury/libft)
 
 ### Piscine
+
+## Perso
+
 <!--
 **blanchetamaury/blanchetamaury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
