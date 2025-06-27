@@ -23,9 +23,13 @@
 ### C Piscine
 - [C00](https://github.com/blanchetamaury/C00)
 - [C01](https://github.com/blanchetamaury/C01)
-- [C02](https://github.com/blanchetamaury/libft)
-- [C03](https://github.com/blanchetamaury/libft)
-- [C04](https://github.com/blanchetamaury/libft)
+- [C02](https://github.com/blanchetamaury/C02)
+- [C03](https://github.com/blanchetamaury/C03)
+- [C04](https://github.com/blanchetamaury/C04)
+- [C05](https://github.com/blanchetamaury/C04)
+- [C06](https://github.com/blanchetamaury/C04)
+- [C07](https://github.com/blanchetamaury/C04)
+- [C08](https://github.com/blanchetamaury/C04)
 ---
 
 # Perso
