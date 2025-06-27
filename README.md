@@ -7,7 +7,7 @@
 ### Common core
 - [Libft](https://github.com/blanchetamaury/libft)
 - [ft_printf](https://github.com/blanchetamaury/printf/tree/main)
-- [Born2beroot](https://github.com/blanchetamaury/libft)
+- [Born2beroot](https://github.com/blanchetamaury/Born2beroot/tree/main)
 - [get_next_line](https://github.com/blanchetamaury/libft)
 - [pipex](https://github.com/blanchetamaury/libft)
 - [so_long](https://github.com/blanchetamaury/libft)
