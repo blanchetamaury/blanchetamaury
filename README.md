@@ -42,3 +42,7 @@
 
 ---
 # 👤 Perso 👤
+
+<p align="center">
+  <img src="assets/ocean.gif" alt="ocean" width="1000"/>
+</p>
