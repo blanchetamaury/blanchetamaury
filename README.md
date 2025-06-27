@@ -6,7 +6,7 @@
 
 ### Common core
 
-[Texte du lien]((https://github.com/blanchetamaury/libft))
+[Libftn](https://github.com/blanchetamaury/libft)
 
 ### Piscine
 <!--
