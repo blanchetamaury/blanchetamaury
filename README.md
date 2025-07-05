@@ -2,10 +2,12 @@
   <img src="assets/hello.gif" alt="hello" width="300"/>
 </p>
 
-![legends](assets/legends.png)
+![legends](assets/caption.png)
 # 🛠️ Working on 🛠️
 [<img src="assets/cub3d.png" alt="cub3d" width="100"/>](https://github.com/blanchetamaury/Cub3d)
-
+[<img src="assets/cpp00.png" alt="cpp00" width="100"/>](https://github.com/blanchetamaury/cpp00)
+[<img src="assets/fingx.png" alt="fingx" width="100"/>](https://github.com/blanchetamaury/FinGX)
+[<img src="assets/libpy.png" alt="libpy" width="100"/>](https://github.com/blanchetamaury/libpy)
 ---
 
 # 4️⃣2️⃣ Projects
