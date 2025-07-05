@@ -48,6 +48,7 @@
 [<img src="assets/internet_clicker.png" alt="internet_clicker" width="100"/>](https://github.com/blanchetamaury/Internet_Clicker)
 [<img src="assets/adventure_time.png" alt="adventure_time" width="100"/>](https://github.com/blanchetamaury/adventure_time)
 [<img src="assets/maze.png" alt="maze" width="100"/>](https://github.com/blanchetamaury/maze)
+[<img src="assets/game_jam_0.png" alt="game_jam_0" width="100"/>](https://github.com/blanchetamaury/ou_est_antonio)
 
 <p align="center">
   <img src="assets/ocean.gif" alt="ocean" width="1000"/>
