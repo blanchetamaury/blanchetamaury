@@ -5,12 +5,12 @@
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=blanchetamaury&show_icons=true&theme=moltack&locale=fr"
-    width="350"
+    width="400"
     alt="Stats GitHub de blanchetamaury"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=blanchetamaury&hide_progress=true&theme=moltack&locale=fr"
-    width="150"
+    width="300"
     alt="Langages les plus utilisés par blanchetamaury"
   />
 </p>
