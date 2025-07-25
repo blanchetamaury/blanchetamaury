@@ -2,6 +2,21 @@
   <img src="assets/hello.gif" alt="hello" width="300"/>
 </p>
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=blanchetamaury&show_icons=true&theme=moltack&locale=fr"
+    width="550"
+    alt="Stats GitHub de blanchetamaury"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=blanchetamaury&hide_progress=true&theme=moltack&locale=fr"
+    width="350"
+    alt="Langages les plus utilisés par blanchetamaury"
+  />
+</p>
+
+---
+
 ![legends](assets/caption.png)
 # 🛠️ Working on 🛠️
 [<img src="assets/cub3d.png" alt="cub3d" width="100"/>](https://github.com/blanchetamaury/Cub3d)
