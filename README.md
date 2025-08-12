@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=blanchetamaury&show_icons=true&theme=holi&locale=fr"
+    src="https://badge.mediaplus.ma/darkblue/amblanch?1337Badge=off&UM6P=off"
     width="400"
     alt="Stats GitHub de blanchetamaury"
   />
