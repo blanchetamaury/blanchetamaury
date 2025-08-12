@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hello.gif" alt="hello" width="300"/>
+  <img src="assets/bg.gif" alt="bg" width="300"/>
 </p>
 
 <p align="center">
@@ -31,9 +31,9 @@
         I know <strong>Vim</strong> and <strong>CLion</strong>.<br>
         I work with <strong>Bash, C, C++, JavaScript, Python, HTML</strong> and <strong>CSS</strong>.<br><br>
         My tree favorite projects are:<br>
-        <a href="https://github.com/blanchetamaury/so_long">-So_long</a><br>
-        <a href="https://github.com/blanchetamaury/ou_est_antonio">-game_jame</a><br>
-        <a href="https://github.com/blanchetamaury/Cub3d">-Cub3D</a>
+        <a href="https://github.com/blanchetamaury/so_long">- So_long</a><br>
+        <a href="https://github.com/blanchetamaury/ou_est_antonio">- Game_jam</a><br>
+        <a href="https://github.com/blanchetamaury/Cub3d">- Cub3D</a>
       </p>
     </td>
   </tr>
