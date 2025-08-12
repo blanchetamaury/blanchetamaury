@@ -19,8 +19,8 @@
 
 <table>
   <tr>
-    <td width="400" valign="top">
-      <img src="assets/caption.png" alt="legends" width="400">
+    <td width="300" height="350" valign="top">
+      <img src="assets/caption.png" alt="legends" width="300" height="350">
     </td>
     <td>
       <h4>Hello everyone !!!</h4>
@@ -30,7 +30,10 @@
         I mainly use <strong>Linux</strong> with <strong>VS Code</strong>.<br>
         I know <strong>Vim</strong> and <strong>CLion</strong>.<br>
         I work with <strong>Bash, C, C++, JavaScript, Python, HTML</strong> and <strong>CSS</strong>.<br><br>
-        My tree favorite projects are<a href="https://github.com/blanchetamaury/so_long"> So_long</a>,<a href="https://github.com/blanchetamaury/ou_est_antonio"> game_jame</a> and<a href="https://github.com/blanchetamaury/Cub3d"> Cub3D</a>
+        My tree favorite projects are:<br>
+        <a href="https://github.com/blanchetamaury/so_long">-So_long</a><br>
+        <a href="https://github.com/blanchetamaury/ou_est_antonio">-game_jame</a><br>
+        <a href="https://github.com/blanchetamaury/Cub3d">-Cub3D</a>
       </p>
     </td>
   </tr>
