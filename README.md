@@ -4,12 +4,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=blanchetamaury&show_icons=true&theme=moltack&locale=fr"
+    src="https://github-readme-stats.vercel.app/api?username=blanchetamaury&show_icons=true&theme=holi&locale=fr"
     width="400"
     alt="Stats GitHub de blanchetamaury"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=blanchetamaury&hide_progress=true&theme=moltack&locale=fr"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=blanchetamaury&hide_progress=true&theme=holi&locale=fr"
     width="300"
     alt="Langages les plus utilisés par blanchetamaury"
   />
@@ -164,12 +164,28 @@
 
 
 ---
-# 👤 Perso 👤
-[<img src="assets/cursor.png" alt="cursor" width="100"/>](https://github.com/blanchetamaury/icone)
-[<img src="assets/internet_clicker.png" alt="internet_clicker" width="100"/>](https://github.com/blanchetamaury/Internet_Clicker)
-[<img src="assets/adventure_time.png" alt="adventure_time" width="100"/>](https://github.com/blanchetamaury/adventure_time)
-[<img src="assets/maze.png" alt="maze" width="100"/>](https://github.com/blanchetamaury/maze)
-[<img src="assets/game_jam_0.png" alt="game_jam_0" width="100"/>](https://github.com/blanchetamaury/ou_est_antonio)
+<details>
+<summary><strong>👤 Perso</strong></summary>
+<br>
+<p>
+  <a href="https://github.com/blanchetamaury/icone">
+    <img src="assets/cursor.png" alt="cursor" width="100">
+  </a>
+  <a href="https://github.com/blanchetamaury/Internet_Clicker">
+    <img src="assets/internet_clicker.png" alt="internet_clicker" width="100">
+  </a>
+  <a href="https://github.com/blanchetamaury/adventure_time">
+    <img src="assets/adventure_time.png" alt="adventure_time" width="100">
+  </a>
+  <a href="https://github.com/blanchetamaury/maze">
+    <img src="assets/maze.png" alt="maze" width="100">
+  </a>
+  <a href="https://github.com/blanchetamaury/ou_est_antonio">
+    <img src="assets/game_jam_0.png" alt="game_jam_0" width="100">
+  </a>
+</p>
+</details>
+
 
 <p align="center">
   <img src="assets/ocean.gif" alt="ocean" width="1000"/>
