@@ -44,12 +44,6 @@
   <summary><h2>🛠️ Working on 🛠️</h2></summary>
 
   <p>
-    <a href="https://github.com/blanchetamaury/Cub3d">
-      <img src="assets/cub3d.png" alt="cub3d" width="100">
-    </a>
-    <a href="https://github.com/blanchetamaury/cpp00">
-      <img src="assets/cpp00.png" alt="cpp00" width="100">
-    </a>
     <a href="https://github.com/blanchetamaury/FinGX">
       <img src="assets/fingx.png" alt="FinGX" width="100">
     </a>
@@ -75,6 +69,12 @@
 <p>
   <a href="https://github.com/blanchetamaury/NetPractice">
     <img src="assets/netpractice.png" alt="netpractice" width="100">
+  </a>
+  <a href="https://github.com/blanchetamaury/Cub3d">
+    <img src="assets/cub3d.png" alt="cub3d" width="100">
+  </a>
+  <a href="https://github.com/blanchetamaury/cpp00">
+    <img src="assets/cpp00.png" alt="cpp00" width="100">
   </a>
 </p>
 </details>
@@ -187,7 +187,7 @@
 
 ---
 <details>
-<summary><strong>👤 Perso</strong></summary>
+<summary><h2><strong>👤 Perso</strong></h2></summary>
 <br>
 <p>
   <a href="https://github.com/blanchetamaury/icone">
