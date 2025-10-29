@@ -30,7 +30,7 @@
         I mainly use <strong>Linux</strong> with <strong>VS Code</strong>.<br>
         I know <strong>Vim</strong> and <strong>CLion</strong>.<br>
         I work with <strong>Bash, C, C++, JavaScript, Python, HTML</strong> and <strong>CSS</strong>.<br><br>
-        My tree favorite projects are:<br>
+        My three favorite projects are:<br>
         <a href="https://github.com/blanchetamaury/so_long">- So_long</a><br>
         <a href="https://github.com/blanchetamaury/ou_est_antonio">- Game_jam</a><br>
         <a href="https://github.com/blanchetamaury/Cub3d">- Cub3D</a>
